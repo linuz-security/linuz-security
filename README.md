@@ -14,7 +14,7 @@
 
 
 ```
-A person to whom computers fascinate more than humans, a person with great interest in Astronomy, Chemistry and History.
+A person to whom computers fascinate more than humans, a person with great interest in Programming
 ```
 ```
 Pythonic Developer, Freelancer, Philantrophist, Graphics Designer. 
