@@ -9,10 +9,6 @@
 
  </div>
 
-![carbon](https://github.com/VedantKhairnar/VedantKhairnar/blob/master/assets/Github%20Profile.png)
-
-<!---
-
 ## Tech I Fonder
  
 
