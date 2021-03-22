@@ -1,13 +1,12 @@
 
 ### Hi there <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">,I am 
-! L1NUZ
+
+### ! L 1 N U Z
 
 <div align="centre">
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/l1nuz-security)
 
-<!--[![Visitors](https://visitor-badge.glitch.me/badge?page_id=VedantKhairnar.visitor-badge)](https://github.com/VedantKhairnar)-->
-<!--![visitors](https://hit-badger.glitch.me/badge?page_id=VedantKhairnar.id)-->
  </div>
 
 ![carbon](https://github.com/VedantKhairnar/VedantKhairnar/blob/master/assets/Github%20Profile.png)
