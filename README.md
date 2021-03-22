@@ -13,8 +13,7 @@
  
 
 
-![alt]
-
+```
 A person to whom computers fascinate more than humans, a person with great interest in Astronomy, Chemistry and History.
 
 A person who is also
@@ -30,7 +29,7 @@ Pythonic Developer, Freelancer, Philantrophist, Graphics Designer and much more.
 - 💬 Ask me about any sort of motivation!!!
 - ⚡ Fun fact: Gimme Music and I will work all of a day!!
 
--->
+```
 
 
 
