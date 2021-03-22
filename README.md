@@ -31,28 +31,17 @@ Pythonic Developer, Freelancer, Philantrophist, Graphics Designer and much more.
 - 🔭 I’m currently working on my startup, Stay Tuned!!!
 - 🌱 I’m currently establishing a coding community!! 
 - 👯 I love to meet new people!!!
-- 🧥 Corrupt Fear US, The Honest Support US, The Heroic join US, Everyone Expect US!!
+- 🧥 L1nuz Project , PavaLion CO !!
 - 💬 Ask me about any sort of motivation!!!
-- ⚡ Fun fact: Gimme Music and I will work 48hrs a day!!
-
-![Vedant's github stats](https://github-readme-stats.vercel.app/api?username=VedantKhairnar&hide=["issues"]&show_icons=true)
+- ⚡ Fun fact: Gimme Music and I will work all of a day!!
 
 -->
 
-### Consider leaving a :star: for **[Chest X-Ray COVID-19](https://github.com/VedantKhairnar/COVID-19-Chest-X-Ray-Infection-Classification) :mask: [Detection](https://github.com/VedantKhairnar/COVID-19-Chest-X-Ray-Infection-Classification) :india:** built by me! :hugs: <br>
 
 
 
-
-
-[![](https://sourcerer.io/fame/VedantKhairnar/VedantKhairnar/VedantKhairnar.github.io/images/0)](https://sourcerer.io/fame/VedantKhairnar/VedantKhairnar/VedantKhairnar.github.io/links/0)[![](https://sourcerer.io/fame/VedantKhairnar/VedantKhairnar/VedantKhairnar.github.io/images/1)](https://sourcerer.io/fame/VedantKhairnar/VedantKhairnar/VedantKhairnar.github.io/links/1)[![](https://sourcerer.io/fame/VedantKhairnar/VedantKhairnar/VedantKhairnar.github.io/images/2)](https://sourcerer.io/fame/VedantKhairnar/VedantKhairnar/VedantKhairnar.github.io/links/2)[![](https://sourcerer.io/fame/VedantKhairnar/VedantKhairnar/VedantKhairnar.github.io/images/3)](https://sourcerer.io/fame/VedantKhairnar/VedantKhairnar/VedantKhairnar.github.io/links/3)[![](https://sourcerer.io/fame/VedantKhairnar/VedantKhairnar/VedantKhairnar.github.io/images/4)](https://sourcerer.io/fame/VedantKhairnar/VedantKhairnar/VedantKhairnar.github.io/links/4)[![](https://sourcerer.io/fame/VedantKhairnar/VedantKhairnar/VedantKhairnar.github.io/images/5)](https://sourcerer.io/fame/VedantKhairnar/VedantKhairnar/VedantKhairnar.github.io/links/5)[![](https://sourcerer.io/fame/VedantKhairnar/VedantKhairnar/VedantKhairnar.github.io/images/6)](https://sourcerer.io/fame/VedantKhairnar/VedantKhairnar/VedantKhairnar.github.io/links/6)[![](https://sourcerer.io/fame/VedantKhairnar/VedantKhairnar/VedantKhairnar.github.io/images/7)](https://sourcerer.io/fame/VedantKhairnar/VedantKhairnar/VedantKhairnar.github.io/links/7)
 
 ## 
-![Made with love in India](https://madewithlove.now.sh/in?heart=true&template=for-the-badge)
-![VisitorCount](https://profile-counter.glitch.me/VedantKhairnar/count.svg)
-
-
 
 [![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](http://ForTheBadge.com)
-[![ForTheBadge powered-by-electricity](http://ForTheBadge.com/images/badges/powered-by-electricity.svg)](http://ForTheBadge.com)
-[![ForTheBadge winter-is-coming](http://ForTheBadge.com/images/badges/winter-is-coming.svg)](http://ForTheBadge.com)
+[![ForTheBadge winter-is-coming](https://forthebadge.com/images/badges/oooo-kill-em.svg)
