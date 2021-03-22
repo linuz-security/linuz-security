@@ -44,4 +44,4 @@ Pythonic Developer, Freelancer, Philantrophist, Graphics Designer and much more.
 ## 
 
 [![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](http://ForTheBadge.com)
-[![ForTheBadge winter-is-coming](https://forthebadge.com/images/badges/oooo-kill-em.svg)
+[![ForTheBadge oooo-kill-em](https://forthebadge.com/images/badges/oooo-kill-em.svg)](http://ForTheBadge.com)
