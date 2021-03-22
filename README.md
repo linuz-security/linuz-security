@@ -19,6 +19,7 @@ A person to whom computers fascinate more than humans, a person with great inter
 ```
 Pythonic Developer, Freelancer, Philantrophist, Graphics Designer. 
 ```
+```
 - 🔭 I’m currently working on my startup, Stay Tuned!!!
 - 🌱 I’m currently establishing a coding community!! 
 - 👯 I love to meet new people!!!
