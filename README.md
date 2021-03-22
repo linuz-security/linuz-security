@@ -17,7 +17,7 @@
  
 
 
-![alt](https://github.com/VedantKhairnar/VedantKhairnar/blob/master/assets/linkedinBack1.png)
+![alt]
 
 A person to whom computers fascinate more than humans, a person with great interest in Astronomy, Chemistry and History.
 
