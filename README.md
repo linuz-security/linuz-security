@@ -9,7 +9,7 @@
 
  </div>
 
-## Tech I Fonder
+## About me
  
 
 
