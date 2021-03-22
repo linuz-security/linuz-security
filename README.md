@@ -21,10 +21,15 @@ Pythonic Developer, Freelancer, Philantrophist, Graphics Designer.
 ```
 ```
 - 🔭 I’m currently working on my startup, Stay Tuned!!!
+- 
 - 🌱 I’m currently establishing a coding community!! 
+- 
 - 👯 I love to meet new people!!!
+
 - 🧥 L1nuz Project , PavaLion CO !!
+- 
 - 💬 Ask me about any sort of motivation!!!
+- 
 - ⚡ Fun fact: Gimme Music and I will work all of a day!!
 ```
 
