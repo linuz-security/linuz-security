@@ -17,7 +17,7 @@
 A person to whom computers fascinate more than humans, a person with great interest in Programming.
 ```
 ```
-Pythonic Developer, Freelancer, Philantrophist, Graphics Designer. 
+Pythonic Developer, Freelancer, Graphics Designer. 
 ```
 ```
 - 🔭 I’m currently working on my startup, Stay Tuned!!!
