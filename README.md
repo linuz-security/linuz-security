@@ -42,6 +42,7 @@ Pythonic Developer, Freelancer, Philantrophist, Graphics Designer and much more.
 
 
 ## 
-
+[![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://forthebadge.com)
 [![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](http://ForTheBadge.com)
-[![ForTheBadge oooo-kill-em](https://forthebadge.com/images/badges/oooo-kill-em.svg)](http://ForTheBadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/oooo-kill-em.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-oxygen.svg)](https://forthebadge.com)
